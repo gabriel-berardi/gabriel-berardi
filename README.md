@@ -1,4 +1,4 @@
-## Hey, I'm Gabriel, a Project Manager with a ❤️ for Open Source from Switzerland.
+## Hey, I'm Gabriel, a Project Manager with a ❤️ for Technology from Switzerland.
 
 **About me:**
 - 👀 I’m interested in Artificial Intelligence, Data Analytics, Open Source Software, Decentralization and much more.
