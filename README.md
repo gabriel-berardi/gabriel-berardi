@@ -1,6 +1,6 @@
 ## Hey, I'm Gabriel, a Project Manager with a ❤️ for Technology from Switzerland.
 
-*About me:**
+**About me:**
 <img width="50%" align="right" alt="Tims github stats" src="https://github-readme-stats.vercel.app/api?username=gabriel-berardi&count_private=true&show_icons=true&hide_border=true" />
 
 - 👀 I’m interested in Artificial Intelligence, Data Analytics, Open Source Software, Decentralization and much more.
